@@ -1,0 +1,5 @@
+1,aaditya,LeatherJacket,Clothes,10,10000
+4,Netra,LeatherJacket,Clothes,10,10000
+1,aaditya,PrestiseCooker,Clothes,10,10000
+1,aaditya,Nike,Clothes,10,10000
+5,Rakshya,LeatherJacket,Clothes,10,10000

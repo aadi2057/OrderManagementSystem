@@ -1,0 +1,10 @@
+4,NetraAdhikari,Pant,Clothes,2,1000.0,2020/03/03 06:46:56
+1,aaditya,Pant,Clothes,1,500.0,2020/03/03 06:53:47
+1,aaditya,Pant,Clothes,1,500.0,2020/03/03 06:56:19
+1,aaditya,PrestiseCooker,Kitchenware,5,5000.0,2020/03/03 06:59:53
+1,aaditya,PrestiseCooker,Kitchenware,5,5000.0,2020/03/03 06:59:53
+1,aaditya,Nike,1000,10,10000,null
+1,aaditya,PlasticPlates,1000,10,10000,null
+1,aaditya,PrestiseCooker,Clothes,10,10000,null
+1,aaditya,Nike,Clothes,10,10000,null
+1,aaditya,Nike,Clothes,10,10000,null

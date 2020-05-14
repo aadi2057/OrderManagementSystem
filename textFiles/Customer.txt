@@ -1,0 +1,4 @@
+1,aaditya,balkhu,aadi,Male,23123123
+3,dfgadfg,sdfasdfa,sdfasdf,Male,sdfasdf
+4,NetraAdhikari,dhumbarahi,netraadhi,Male,983234983
+5,aadityajha,ktm,aadi,Male,937231

@@ -1,0 +1,13 @@
+2,Nike,1000,22,Shoes
+3,PrestiseCooker,1000.0,20,Kitchenware
+4,skirt,800.0,3,Clothes
+6,Bowl,250.0,50,Kitchenware
+7,Woolen Shirt,1250.0,20,Clothes
+8,Converse,1500.0,8,Shoes
+9,Doreamon,500.0,15,Toys
+10,Boot,2000.0,10,Sports
+11,Football ,4000.0,8,Sports
+12,Volleyball,8000.0,5,Sports
+13,Knife,200.0,9,Kitchenware
+14,Chopping Board,250.0,9,Kitchenware
+15,Jeans,1500.0,10,Clothes
